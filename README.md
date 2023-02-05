@@ -7,6 +7,7 @@ Al momento de clonar proyecto, en la sección file seleccioname Build Settings y
   
   StartQuizScene(0),
   QuizScene(1),
-  FinishScore(2),
+  FinishScore(2)
+ 
  
 y listo! Diviertete :D
