@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes&Scripts/M1-Proyecto/StartQuizScene.unity
+    guid: 9c1cace6132d52542b5b1540243d53cb
+  - enabled: 1
+    path: Assets/Scenes&Scripts/M1-Proyecto/QuizGame.unity
+    guid: 654d616cdd0373140b53f7624273ea2f
+  - enabled: 1
+    path: Assets/Scenes&Scripts/M1-Proyecto/FinishScore.unity
+    guid: 8077dad5f5a9b2c4f915a879eb897dc5
+  m_configObjects: {}
